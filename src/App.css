@@ -1,4 +1,9 @@
-.App {
+.box {
+  border : 3px solid;
+  padding: 25px;
+  margin: 25px;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +40,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
